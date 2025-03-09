@@ -1,16 +1,18 @@
-## Hi there 👋
+### Olá! Eu sou Miguel Ferreira 🍵
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ferreira-05092b264/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelsfrds/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](miguelferreirads@gmail.com)
 
-<!--
-**Miguel-Ferreir4/Miguel-Ferreir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou estudante do curso de Sistemas para Internet no IFPB - Campus Guarabira, com formação em Técnico em Informática. Tenho grande entusiasmo por tecnologia e programação, sempre buscando aprender coisas novas e me manter atualizado. Estou em busca de oportunidades de estágio e experiência profissional para aplicar e expandir meus conhecimentos, contribuindo de forma proativa em projetos desafiadores.
 
-Here are some ideas to get you started:
+## GitHub Stats
+![Miguel Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Ferreir4&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Ferreir4&size_weight=0.5&count_weight=0.5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que utilizado
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</div>
