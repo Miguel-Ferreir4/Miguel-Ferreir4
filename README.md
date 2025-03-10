@@ -1,7 +1,7 @@
 ### Olá! Eu sou Miguel Ferreira <img src="https://i.pinimg.com/originals/10/eb/72/10eb72c98fd1c929607a6139e721b1e7.gif" height="50px" >
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ferreira-05092b264/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelsfrds/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](miguelferreirads458@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelferreirads458@gmail.com)
 
 ## Sobre mim
 Sou estudante do curso de Sistemas para Internet no IFPB - Campus Guarabira, com formação em Técnico em Informática. Tenho grande entusiasmo por tecnologia e programação, sempre buscando aprender coisas novas e me manter atualizado. Estou em busca de oportunidades de estágio e experiência profissional para aplicar e expandir meus conhecimentos, contribuindo de forma proativa em projetos desafiadores.
