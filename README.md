@@ -10,7 +10,7 @@ Sou estudante do curso de Sistemas para Internet no IFPB - Campus Guarabira, com
 ![Miguel Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Ferreir4&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Ferreir4&size_weight=0.5&count_weight=0.5)
 
-## Tecnologias que utilizado
+## Tecnologias que utilizo
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
