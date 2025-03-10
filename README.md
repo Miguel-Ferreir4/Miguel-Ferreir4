@@ -1,4 +1,4 @@
-### Olá! Eu sou Miguel Ferreira 🍵
+### Olá! Eu sou Miguel Ferreira <img src="https://i.pinimg.com/originals/10/eb/72/10eb72c98fd1c929607a6139e721b1e7.gif" height="50px" >
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ferreira-05092b264/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelsfrds/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](miguelferreirads@gmail.com)
